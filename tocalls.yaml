@@ -2415,3 +2415,9 @@ tocalls:
    model: PSKmail
    class: software
 
+ - tocall: APRW??
+   vendor: Ralph (DD5RW)
+   model: Dynamic Mobile Multi-Band Tracker & Bidirectional iGate
+   class: igate
+   os: Linux/Unix
+
